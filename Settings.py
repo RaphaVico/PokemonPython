@@ -1,9 +1,9 @@
 HOST = 'irc.twitch.tv'
 PORT = 6667
-PASS = 'oauth:lcfmncdmgcgxw9qfybve99c3xl73a5'
+PASS = ''
 IDENT = "bot_game"
-CHANNEL = 'vicuzinho'
-OWNER = "Vicuzinho"
+CHANNEL = ''
+OWNER = ""
 VK_CODE = {'backspace':0x08,
            'tab':0x09,
            'clear':0x0C,
